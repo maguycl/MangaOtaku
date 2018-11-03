@@ -1,0 +1,24 @@
+.mapage{
+
+  width:100%;
+  height:40%;
+  background:purple;
+  color:white;
+}
+body{
+  background:pink;
+}
+.menu{
+width:3%;
+height:90%;
+background:pink;
+color:black;
+}
+.contenue{
+size:100%;
+  font-style:italic;
+  background:pink;
+color:black;
+
+
+}
